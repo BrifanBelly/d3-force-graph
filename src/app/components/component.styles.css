@@ -1,0 +1,23 @@
+.node {
+    
+}
+
+.circle {
+     stroke: #006699;
+    transition: all .2s ease;
+}
+
+.node:hover {
+    /* transform: scale(1.5); */
+    /* fill: #bcbccc */
+    
+}
+
+.node-menu {
+    cursor: pointer;
+    transition: all .1s ease;
+}
+
+.description {
+    transition: all .2s ease;
+}
